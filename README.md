@@ -1,4 +1,4 @@
-## Hola raul 👋
+## Hola raul y laura los amos 👋
 
 - 🔭 I’m currently working on basico.
 - 🌱 I’m currently learning basico.
