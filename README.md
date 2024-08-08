@@ -1,5 +1,4 @@
-## >Hola raul 👋
-
+## Hola raul 👋
 
 - 🔭 I’m currently working on basico.
 - 🌱 I’m currently learning basico.
